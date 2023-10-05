@@ -1,2 +1,2 @@
 # byeong
-991014 byeongrae Kim
+2000.02.10 Seoyun Song
